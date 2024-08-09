@@ -1,6 +1,6 @@
 # healthiest
  Hello I hope you are doing well, Here are instructions to how to download and run this code.
- This code is for the frontend of the Helathiest Pharmacy app and it is done on dart, so it requires dart and flutter for execution.
+ This code is for the frontend of the Healthiest Pharmacy app and it is done on dart, so it requires dart and flutter for execution.
  
 1) You can download this code by pressing on the button named as "<> code" with green color on the top of this page
  
