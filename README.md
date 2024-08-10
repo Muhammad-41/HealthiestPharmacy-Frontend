@@ -1,4 +1,4 @@
-# healthiest
+## How to use this code
  Hello I hope you are doing well, Here are instructions to how to download and run this code.
  This code is for the frontend of the Healthiest Pharmacy app and it is done on dart, so it requires dart and flutter for execution.
  
